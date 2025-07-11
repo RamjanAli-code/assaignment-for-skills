@@ -237,7 +237,6 @@ header {
 .user {
     height: 300px;
     width: 80%;
-    /* background-color: rebeccapurple; */
     margin-top: 80px;
     margin-left: 150px;
 }
@@ -301,13 +300,12 @@ header {
 
 .container {
     display: flex;
-    /* margin-right: 2000px; */
     gap: none;
     padding-right: 0px;
     justify-content: start;
 }
 
 .ubox {
-    /* padding-right: 4000px; */
     margin-right: 80px;
+    margin-left: 80px;
 }
