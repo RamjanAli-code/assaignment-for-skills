@@ -71,7 +71,7 @@ header {
 }
 
 .left {
-    margin-top: 50px;
+    margin-top: 70px;
 }
 
 .title1 {
@@ -96,6 +96,8 @@ header {
 
 .image {
     border-radius: 25px;
+    height: 400px;
+    width: 450px;
 }
 
 .product {
