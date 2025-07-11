@@ -94,7 +94,7 @@ header {
     margin-top: 10px;
 }
 
-.image {
+.image1 {
     border-radius: 25px;
     height: 400px;
     width: 450px;
@@ -232,4 +232,82 @@ header {
 
 .formbtn:hover {
     background-color: rgb(63, 187, 181);
+}
+
+.user {
+    height: 300px;
+    width: 80%;
+    /* background-color: rebeccapurple; */
+    margin-top: 80px;
+    margin-left: 150px;
+}
+
+.ulog {
+    background-image: url("Assets/icon-star.png");
+    background-size: cover;
+    height: 0px;
+    width: 16%;
+    background-size: 20%;
+    background-repeat: no-repeat;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+.ulogo {
+    display: flex;
+    gap: none;
+    padding-right: 00px;
+    padding-top: 40px;
+}
+
+.utitle {
+    font-weight: bold;
+    text-align: center;
+    font-size: 300%;
+}
+
+.uheading {
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.usubheading {
+    color: rgb(178, 178, 178);
+}
+
+.image {
+    display: flex;
+    height: 30px;
+    width: 40px;
+    margin-top: 20px;
+}
+
+.img {
+    border-radius: 15px;
+}
+
+.imagep {
+    font-size: .8rem;
+    padding-left: 10px;
+}
+
+.imagename {
+    color: rgb(178, 178, 178);
+}
+
+.imagedate {
+    color: rgb(205, 202, 202);
+}
+
+.container {
+    display: flex;
+    /* margin-right: 2000px; */
+    gap: none;
+    padding-right: 0px;
+    justify-content: start;
+}
+
+.ubox {
+    /* padding-right: 4000px; */
+    margin-right: 80px;
 }
