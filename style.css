@@ -146,7 +146,7 @@ header {
     font-weight: bold;
     font-size: 400%;
     padding-top: 80px;
-    margin-left: 220px;
+    margin-left: 210px;
 }
 
 .form {
@@ -193,7 +193,7 @@ header {
     background-size: cover;
     height: 70px;
     width: 7%;
-    margin-left: 525px;
+    margin-left: 522px;
 }
 
 .description {
@@ -213,9 +213,11 @@ header {
 .a2,
 .a3,
 .a4 {
-    margin-right: 60px;
+    margin-right: 50px;
+    margin-left: 20px;
     text-decoration: none;
     color: rgb(178, 178, 178);
+    /* padding-left: 10px; */
 }
 
 .bannerbtn:hover {
