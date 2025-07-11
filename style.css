@@ -12,8 +12,8 @@ header {
 
 .navbar {
     height: 100px;
-    width: 50%;
-    margin-left: 350px;
+    width: 70%;
+    margin-left: 230px;
     display: flex;
     justify-content: space-between;
 }
@@ -49,6 +49,7 @@ header {
 }
 
 .title {
+    font-weight: bold;
     text-align: center;
     font-size: 400%;
 }
@@ -62,4 +63,70 @@ header {
     color: rgb(237, 240, 243);
     background-color: rgb(18, 18, 153);
     ;
+}
+
+.action {
+    display: flex;
+    margin: 50px 150px;
+    justify-content: space-between;
+}
+
+.left {
+    margin-top: 50px;
+}
+
+.title1 {
+    font-size: 250%;
+    font-weight: bold;
+}
+
+.subtitle {
+    margin-top: 10px;
+    font-size: 150%;
+    color: rgb(200, 196, 196);
+}
+
+.actionbtn {
+    height: 35px;
+    width: 150px;
+    border-radius: 10px;
+    color: rgb(237, 240, 243);
+    background-color: rgb(18, 18, 153);
+    margin-top: 10px;
+}
+
+.image {
+    border-radius: 25px;
+}
+
+.product {
+    height: 300px;
+    width: 80%;
+    background-color: rgba(70, 121, 188, 0.1);
+    margin: 50px 150px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.head {
+    font-weight: bold;
+    margin-top: 50px;
+    padding-top: 50px;
+    font-size: 200%;
+}
+
+.para {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 60px
+}
+
+.p1 {
+    font-size: 300%;
+    color: rgb(60, 60, 203);
+    font-weight: bold;
+}
+
+.p2 {
+    color: rgb(130, 126, 126);
 }
