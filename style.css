@@ -179,3 +179,57 @@ header {
 .form3 {
     padding: 10px;
 }
+
+.section {
+    height: 200px;
+    width: 80%;
+    margin: 80px 150px;
+    align-items: center;
+    padding-left: 80px;
+}
+
+.flogo {
+    background-image: url("Assets/amazonl.webp");
+    background-size: cover;
+    height: 70px;
+    width: 7%;
+    margin-left: 525px;
+}
+
+.description {
+    color: rgb(178, 178, 178);
+    text-align: center;
+}
+
+.link {
+    color: rgb(178, 178, 178);
+    text-align: center;
+    text-decoration: none;
+    justify-content: space-evenly;
+    padding-top: 20px;
+}
+
+.a1,
+.a2,
+.a3,
+.a4 {
+    margin-right: 60px;
+    text-decoration: none;
+    color: rgb(178, 178, 178);
+}
+
+.bannerbtn:hover {
+    background-color: rgb(63, 187, 181);
+}
+
+.actionbtn:hover {
+    background-color: rgb(63, 187, 181);
+}
+
+.btn:hover {
+    background-color: rgb(63, 187, 181);
+}
+
+.formbtn:hover {
+    background-color: rgb(63, 187, 181);
+}
