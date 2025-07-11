@@ -3,3 +3,63 @@
     font-family: Arial;
     border: border-box;
 }
+
+header {
+    background-image: url("Assets/Hero-bg.png");
+    height: 500px;
+    width: 100%;
+}
+
+.navbar {
+    height: 100px;
+    width: 50%;
+    margin-left: 350px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-logo {
+    height: 50px;
+    width: 100px;
+}
+
+.logo {
+    background-image: url("Assets/amazonl.webp");
+    background-size: cover;
+    height: 70px;
+    width: 100%;
+    align-items: center;
+}
+
+.btn {
+    background-color: rgb(18, 18, 153);
+    height: 40px;
+    width: 70px;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 27px;
+    color: rgb(237, 240, 243);
+}
+
+.banner {
+    height: 300px;
+    width: 700px;
+    margin-left: 390px;
+    margin-top: 40px;
+}
+
+.title {
+    text-align: center;
+    font-size: 400%;
+}
+
+.bannerbtn {
+    align-items: center;
+    margin-left: 46%;
+    margin-top: 20px;
+    height: 30px;
+    border-radius: 10px;
+    color: rgb(237, 240, 243);
+    background-color: rgb(18, 18, 153);
+    ;
+}
